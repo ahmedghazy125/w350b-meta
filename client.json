@@ -1,0 +1,10 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/ahmedghazy125/w350b-meta@main/client.json",
+  "client_name": "w350b-jsd-probe",
+  "client_uri": "https://example.com/w350b",
+  "redirect_uris": ["https://drum-drove-mainly-advocacy.trycloudflare.com/cb"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "agent:access"
+}
